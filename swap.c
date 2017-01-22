@@ -5,6 +5,9 @@ int main(void){
   printf("X = %d, Y = %d", x,y);
   
   //swapping...
+  int temp = x;
+  x = y;
+  y = temp;
   
   printf("X = %d, Y = %d", x,y);
   return 0;

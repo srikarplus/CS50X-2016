@@ -8,7 +8,8 @@ int main(void){
   int temp = x;
   x = y;
   y = temp;
-  
+  //swapping complete
+    
   printf("X = %d, Y = %d", x,y);
   return 0;
 }

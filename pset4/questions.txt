@@ -1,0 +1,19 @@
+0.  BMP over 4 billion; GIF 256; JPEG 16 million; PNG 16 million
+1.  GIF
+2.  In lossy compression few amounts of data is lost when the file is uncompressed whereas in lossless compression the data is not lost.
+3.  JPEG and GIF
+4.  Deleting a file most often merely rewrites the metadata that pointed to the file, but leaves the disk blocks containing the file’s contents intact.
+5.  Simply filling an entire disk with ASCII NUL bytes provides sufficient sanitization.
+6.  It declares integers having specified widths.
+7.  Regardless of the type of the system, we get same specified memory across all machines.
+8.  1,4,4,2
+9.  0x4D42
+10. bfsize - size of the bitmap, bisize - size of the struct
+11. It's a top down bitmap.
+12. biBitCount
+13. If fopen cannot create the file in "w" mode, it returns a NULL.
+14. We are reading in 1 block of sizeof(RGBTRIPLE).
+15. 3
+16. Changes the offset of the file pointer.
+17. It is a macro that gives the current position of the file pointer.
+18. Some person ( I can't identify his name).

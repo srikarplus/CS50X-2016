@@ -1,4 +1,9 @@
-####This pset-1 has 4 basic C programs  
+###Objectives  
+* Get comfortable with Linux  
+* Start thinking more carefully  
+* Solve some problems in C
+
+####pset-1 has 4 basic C programs  
 **hello.c** - A simple hello world program  
 **water.c** - a program that prompts the user for the length of his or her 
               shower in minutes (as a positive integer) and then prints the equivalent number of bottles of water used  

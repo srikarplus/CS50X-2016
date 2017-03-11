@@ -2,7 +2,7 @@
 * Become better acquainted with functions and libraries.
 * Getting more comfortable with strings in C language.
 
-####pset-1 has 3 basic C programs  
+####pset-2 has 3 basic C programs  
 
 **initials.c** - a program that prompts a user for their name and then outputs their initials in uppercase with no spaces or periods  
 **caesar.c** - encrypts messages by "rotating" each letter by k positions, wrapping around from Z to A as needed  
